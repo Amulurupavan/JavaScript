@@ -1,4 +1,4 @@
-var num=99
+let num=102
 if(num%2==0){
     console.log("even")
 }else{

@@ -1,6 +1,6 @@
-var num=3763
-if(num>=100 && num<=999){
-    console.log("yes")
+var num=8396
+if(num>=100 && num<=9999){
+    console.log("Yes")
 }else{
-    console.log("no")
+    console.log("No")
 }

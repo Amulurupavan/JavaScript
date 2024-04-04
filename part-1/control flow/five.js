@@ -1,6 +1,6 @@
-var year=2024
+let year=2024
 if(year%4==0){
-    console.log("leap")
+    console.log("Leap")
 }else{
-    console.log("non leap")
+    console.log("Non leap")
 }
